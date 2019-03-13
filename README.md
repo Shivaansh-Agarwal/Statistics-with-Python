@@ -5,7 +5,7 @@ Some of the resources include:
 * My own Notes from Different Books
 * Khan Academy
 * Youtube 
-* Coursera (Michigan University Course on Statistics)
-* Udemy (Python for Data Science and Machine Learning Bootcamp, Machine Learning A-Z)
+* Coursera 
+* Udemy
 * Jason Brownlee's Blog Posts(Machine Learning Mastery)
 * etc
